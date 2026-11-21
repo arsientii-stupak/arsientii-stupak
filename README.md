@@ -11,7 +11,7 @@ In meinem Praktikum als Fachinformatiker für Anwendungsentwicklung habe ich die
 
 - 📋 [Todo-list](https://arsientii-stupak.github.io/Todo-list/) – Aufgabenliste: Aufgaben hinzufügen und löschen (JavaScript) · [Code](https://github.com/arsientii-stupak/Todo-list)
 - ✂️ [Rock-paper-scissors](https://arsientii-stupak.github.io/Rock-paper-scissors/) – Spiel „Schere, Stein, Papier“ (JavaScript) · [Code](https://github.com/arsientii-stupak/Rock-paper-scissors)
-- ☁️ [Weather-app](https://arsientii-stupak.github.io/Weather/) – zeigt das aktuelle Wetter für eine Stadt an · [Code](https://github.com/arsientii-stupak/Weather)
+- ☁️ [Weather-app](https://arsientii-stupak.github.io/Weather/) – Wetter-App: Man gibt eine Stadt ein und sieht das aktuelle Wetter dort · [Code](https://github.com/arsientii-stupak/Weather)
 - ✈️ [Project-SCSS](https://arsientii-stupak.github.io/Project-SCSS/) – Reise-Website mit SCSS, responsivem Layout und BEM · [Code](https://github.com/arsientii-stupak/Project-SCSS)
 - 🎨 [Random-color](https://arsientii-stupak.github.io/Random-color/) – zufällige RGB-Farben per Klick (TypeScript) · [Code](https://github.com/arsientii-stupak/Random-color)
 - 🔢 [Is-even](https://arsientii-stupak.github.io/Is-even/) – prüft, ob eine Zahl gerade oder ungerade ist · [Code](https://github.com/arsientii-stupak/Is-even)
