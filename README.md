@@ -1,9 +1,22 @@
-## My Projects
+# Hallo, ich bin Arsientii 👋
 
-- 🎮 [Is-even](https://haskeryt322009-a11y.github.io/Is-even/) – a simple number even/odd checker
-- 📋 [Todo-list](https://haskeryt322009-a11y.github.io/Todo-list/) – a task list with add/remove features
-- ✂️ [Rock-paper-scissors](https://haskeryt322009-a11y.github.io/Rock-paper-scissors/) – a mini interactive game
-- 🌐 [About-me-website](https://haskeryt322009-a11y.github.io/About-me-website/) – my personal website
-- ☁️ [Weather-app](https://haskeryt322009-a11y.github.io/Weather/) – view current weather by city name
-- ✈️ [Project-SCSS](https://haskeryt322009-a11y.github.io/Project-SCSS/) - a travel website project (built with SCSS, responsive layout, UI practice, BEM methodology used)
-- 🎨 [Random-color](https://haskeryt322009-a11y.github.io/Random-color/) – a small TypeScript project that generates random RGB colors on button click
+Ich bewerbe mich um eine Ausbildung als **Fachinformatiker für Systemintegration** (Start 2027).
+Zurzeit lerne ich selbstständig die Grundlagen in Hardware, Windows und Linux, Netzwerktechnik und IT-Sicherheit.
+
+📍 Uetersen / Hamburg
+
+## Meine Übungsprojekte (Webentwicklung)
+
+In meinem Praktikum als Fachinformatiker für Anwendungsentwicklung habe ich die Grundlagen von HTML, CSS und JavaScript gelernt. Diese kleinen Projekte habe ich zum Üben erstellt:
+
+- 📋 [Todo-list](https://github.com/arsientii-stupak/Todo-list) – Aufgabenliste: Aufgaben hinzufügen und löschen (JavaScript)
+- ✂️ [Rock-paper-scissors](https://github.com/arsientii-stupak/Rock-paper-scissors) – kleines interaktives Spiel „Schere, Stein, Papier“ (JavaScript)
+- ☁️ [Weather](https://github.com/arsientii-stupak/Weather) – zeigt das aktuelle Wetter für eine Stadt an
+- ✈️ [Project-SCSS](https://github.com/arsientii-stupak/Project-SCSS) – Reise-Website mit SCSS, responsivem Layout und BEM
+- 🎨 [Random-color](https://github.com/arsientii-stupak/Random-color) – erzeugt per Klick zufällige RGB-Farben
+- 🔢 [Is-even](https://github.com/arsientii-stupak/Is-even) – prüft, ob eine Zahl gerade oder ungerade ist
+- 🌐 [About-me-website](https://github.com/arsientii-stupak/About-me-website) – meine persönliche Website
+
+## Als Nächstes
+
+🖥️ Projekte aus dem Bereich Systemintegration: Hardware-Dokumentation meines PCs und ein kleines Testnetzwerk mit virtuellen Maschinen.
