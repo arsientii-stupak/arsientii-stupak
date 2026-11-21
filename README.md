@@ -7,15 +7,15 @@ Zurzeit lerne ich selbstständig die Grundlagen in Hardware, Windows und Linux, 
 
 ## Meine Übungsprojekte (Webentwicklung)
 
-In meinem Praktikum als Fachinformatiker für Anwendungsentwicklung habe ich die Grundlagen von HTML, CSS und JavaScript gelernt. Diese kleinen Projekte habe ich zum Üben erstellt:
+In meinem Praktikum als Fachinformatiker für Anwendungsentwicklung habe ich die Grundlagen von HTML, CSS und JavaScript gelernt. Diese kleinen Projekte habe ich zum Üben erstellt – ein Klick auf den Namen öffnet die Website:
 
-- 📋 [Todo-list](https://github.com/arsientii-stupak/Todo-list) – Aufgabenliste: Aufgaben hinzufügen und löschen (JavaScript)
-- ✂️ [Rock-paper-scissors](https://github.com/arsientii-stupak/Rock-paper-scissors) – kleines interaktives Spiel „Schere, Stein, Papier“ (JavaScript)
-- ☁️ [Weather](https://github.com/arsientii-stupak/Weather) – zeigt das aktuelle Wetter für eine Stadt an
-- ✈️ [Project-SCSS](https://github.com/arsientii-stupak/Project-SCSS) – Reise-Website mit SCSS, responsivem Layout und BEM
-- 🎨 [Random-color](https://github.com/arsientii-stupak/Random-color) – erzeugt per Klick zufällige RGB-Farben
-- 🔢 [Is-even](https://github.com/arsientii-stupak/Is-even) – prüft, ob eine Zahl gerade oder ungerade ist
-- 🌐 [About-me-website](https://github.com/arsientii-stupak/About-me-website) – meine persönliche Website
+- 📋 [Todo-list](https://arsientii-stupak.github.io/Todo-list/) – Aufgabenliste: Aufgaben hinzufügen und löschen (JavaScript) · [Code](https://github.com/arsientii-stupak/Todo-list)
+- ✂️ [Rock-paper-scissors](https://arsientii-stupak.github.io/Rock-paper-scissors/) – Spiel „Schere, Stein, Papier“ (JavaScript) · [Code](https://github.com/arsientii-stupak/Rock-paper-scissors)
+- ☁️ [Weather-app](https://arsientii-stupak.github.io/Weather/) – zeigt das aktuelle Wetter für eine Stadt an · [Code](https://github.com/arsientii-stupak/Weather)
+- ✈️ [Project-SCSS](https://arsientii-stupak.github.io/Project-SCSS/) – Reise-Website mit SCSS, responsivem Layout und BEM · [Code](https://github.com/arsientii-stupak/Project-SCSS)
+- 🎨 [Random-color](https://arsientii-stupak.github.io/Random-color/) – zufällige RGB-Farben per Klick (TypeScript) · [Code](https://github.com/arsientii-stupak/Random-color)
+- 🔢 [Is-even](https://arsientii-stupak.github.io/Is-even/) – prüft, ob eine Zahl gerade oder ungerade ist · [Code](https://github.com/arsientii-stupak/Is-even)
+- 🌐 [About-me-website](https://arsientii-stupak.github.io/About-me-website/) – meine persönliche Website · [Code](https://github.com/arsientii-stupak/About-me-website)
 
 ## Als Nächstes
 
