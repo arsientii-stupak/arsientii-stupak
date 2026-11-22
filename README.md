@@ -1,22 +1,24 @@
-# Hallo, ich bin Arsientii 👋
+# Arsientii Stupak
 
-Ich bewerbe mich um eine Ausbildung als **Fachinformatiker für Systemintegration** (Start 2027).
-Zurzeit lerne ich selbstständig die Grundlagen in Hardware, Windows und Linux, Netzwerktechnik und IT-Sicherheit.
+Hi! Ich bewerbe mich gerade für eine Ausbildung als Fachinformatiker für Systemintegration (Start 2027).
+Im Moment lerne ich selbst die Grundlagen: Hardware, Windows, Linux und Netzwerke.
 
-📍 Uetersen / Hamburg
+## Projekte
 
-## Meine Übungsprojekte (Webentwicklung)
+Mit Webentwicklung habe ich in meinem Praktikum angefangen. Danach habe ich zu Hause weitergemacht und diese kleinen Projekte gebaut (HTML, CSS, JavaScript).
 
-In meinem Praktikum als Fachinformatiker für Anwendungsentwicklung habe ich die Grundlagen von HTML, CSS und JavaScript gelernt. Diese kleinen Projekte habe ich zum Üben erstellt – ein Klick auf den Namen öffnet die Website:
+| Projekt | Was es macht | Website |
+|---|---|---|
+| [Todo-list](https://github.com/arsientii-stupak/Todo-list) | Aufgaben hinzufügen und löschen | [öffnen](https://arsientii-stupak.github.io/Todo-list/) |
+| [Rock-paper-scissors](https://github.com/arsientii-stupak/Rock-paper-scissors) | Schere, Stein, Papier gegen den Computer | [öffnen](https://arsientii-stupak.github.io/Rock-paper-scissors/) |
+| [Weather](https://github.com/arsientii-stupak/Weather) | Stadt eingeben und das aktuelle Wetter sehen | [öffnen](https://arsientii-stupak.github.io/Weather/) |
+| [Project-SCSS](https://github.com/arsientii-stupak/Project-SCSS) | Reise-Website, mit SCSS und BEM gebaut | [öffnen](https://arsientii-stupak.github.io/Project-SCSS/) |
+| [Random-color](https://github.com/arsientii-stupak/Random-color) | Zufällige Farbe per Klick (TypeScript) | [öffnen](https://arsientii-stupak.github.io/Random-color/) |
+| [Is-even](https://github.com/arsientii-stupak/Is-even) | Prüft, ob eine Zahl gerade ist | [öffnen](https://arsientii-stupak.github.io/Is-even/) |
+| [About-me-website](https://github.com/arsientii-stupak/About-me-website) | Meine persönliche Website | [öffnen](https://arsientii-stupak.github.io/About-me-website/) |
 
-- 📋 [Todo-list](https://arsientii-stupak.github.io/Todo-list/) – Aufgabenliste: Aufgaben hinzufügen und löschen (JavaScript) · [Code](https://github.com/arsientii-stupak/Todo-list)
-- ✂️ [Rock-paper-scissors](https://arsientii-stupak.github.io/Rock-paper-scissors/) – Spiel „Schere, Stein, Papier“ (JavaScript) · [Code](https://github.com/arsientii-stupak/Rock-paper-scissors)
-- ☁️ [Weather-app](https://arsientii-stupak.github.io/Weather/) – Wetter-App: Man gibt eine Stadt ein und sieht das aktuelle Wetter dort · [Code](https://github.com/arsientii-stupak/Weather)
-- ✈️ [Project-SCSS](https://arsientii-stupak.github.io/Project-SCSS/) – Reise-Website mit SCSS, responsivem Layout und BEM · [Code](https://github.com/arsientii-stupak/Project-SCSS)
-- 🎨 [Random-color](https://arsientii-stupak.github.io/Random-color/) – zufällige RGB-Farben per Klick (TypeScript) · [Code](https://github.com/arsientii-stupak/Random-color)
-- 🔢 [Is-even](https://arsientii-stupak.github.io/Is-even/) – prüft, ob eine Zahl gerade oder ungerade ist · [Code](https://github.com/arsientii-stupak/Is-even)
-- 🌐 [About-me-website](https://arsientii-stupak.github.io/About-me-website/) – meine persönliche Website · [Code](https://github.com/arsientii-stupak/About-me-website)
+## Was als Nächstes kommt
 
-## Als Nächstes
+Als Nächstes mache ich Projekte zur Systemintegration, zum Beispiel eine Doku zur Hardware von meinem PC und ein kleines Testnetzwerk mit VirtualBox.
 
-🖥️ Projekte aus dem Bereich Systemintegration: Hardware-Dokumentation meines PCs und ein kleines Testnetzwerk mit virtuellen Maschinen.
+Uetersen, bei Hamburg
