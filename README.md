@@ -19,6 +19,7 @@ Klick auf den Namen öffnet die Website, "Code" zeigt den Quellcode.
 - **[Is-even](https://arsientii-stupak.github.io/Is-even/)** - prüft, ob eine Zahl gerade oder ungerade ist ([Code](https://github.com/arsientii-stupak/Is-even))
 - **[About-me-website](https://arsientii-stupak.github.io/About-me-website/)** - meine persönliche Website ([Code](https://github.com/arsientii-stupak/About-me-website))
 
-## Was als Nächstes kommt
+## In Arbeit
 
-Projekte zur Systemintegration: eine Dokumentation zur Hardware von meinem PC und ein kleines Testnetzwerk mit virtuellen Maschinen.
+- Dokumentation der Hardware von meinem PC
+- Testnetzwerk mit VirtualBox (Windows und Linux, DHCP, DNS)
